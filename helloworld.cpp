@@ -2,5 +2,5 @@
 using namespace std;
 main()
 {
-	cout << "Learning C++ at GeekforGeeks";
+	cout << "Learning C++ at CCTech";
 }
