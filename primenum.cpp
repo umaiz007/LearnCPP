@@ -1,4 +1,4 @@
-// Take an array from user and print prime numbers from it.
+// Take an array from user and print prime numbers from it........
 #include<iostream>
 using namespace std;
 
